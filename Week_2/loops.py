@@ -14,3 +14,9 @@ for number in range(0,10):
 # squares of the numbers
 for x in range(0,11):
     print(str(x**2)+"\t" ,end=" ") 
+
+
+# code to print my name
+print("\n")  
+for i in range(0,5):
+    print("Lesley Waweru")
