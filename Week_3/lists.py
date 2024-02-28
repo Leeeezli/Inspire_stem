@@ -33,3 +33,13 @@ items.sort()
 print(items)
 
 print("\n")
+
+x = items.count("laptop")
+print(x)
+
+print("\n")
+
+items.insert(0,"pencil")
+print(items)
+
+print("\n")
