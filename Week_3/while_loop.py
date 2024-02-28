@@ -14,7 +14,3 @@ while x <= 10 :
     print(x)
 
 
-i = 2 # integer
-h = 6.8909 # float
-print(float(i))
-print(int(h))
