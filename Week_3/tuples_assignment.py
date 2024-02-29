@@ -1,6 +1,6 @@
 # assignment
 # name : Lesley Waweru
-# date : 27/02/2024
+# date : 29/02/2024
 
 hobbies = ("baking","swimming","hiking","travelling")
 print(hobbies)

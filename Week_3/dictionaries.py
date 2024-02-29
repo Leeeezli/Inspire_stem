@@ -1,6 +1,6 @@
 # dictionaries
 # name : Lesley Waweru
-# date : 27/02/2024
+# date : 28/02/2024
 
 laptop = {"make":"hpp","color":"grey","weight":"1.2","year":"2022"}
 

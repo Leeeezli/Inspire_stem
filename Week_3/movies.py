@@ -1,6 +1,6 @@
 # lists assignment
 # name : Lesley Waweru
-# date : 27/02/2024
+# date : 28/02/2024
 
 fav_movies = ["blacklist","from","the gifted","wish","the deputy"]
 
