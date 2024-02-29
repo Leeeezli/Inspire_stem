@@ -1,6 +1,6 @@
 # this is a program that gets the modulus of numbers
 # date: 20/02/2024
-# name : Lesley
+# name : Lesley Waweru
 
 first_number = 7
 second_number = 2
