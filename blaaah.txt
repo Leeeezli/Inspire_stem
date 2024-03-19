@@ -1,0 +1,14 @@
+Python
+Syntax ; rules
+# = comments
+no declarations(strings)
+variables are not numbers or keywords(print,int)
+indentation is key
+
+Javascript
+// = comments
+declare variables = data containers(use:'let,'var','const')
+variables are not numbers or keywords(let)
+curly brackets {}
+margin = space btwn elements
+padding = spaces inside an element
